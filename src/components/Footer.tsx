@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 
 /* ICONS */
 const GitHubIcon = ({ size = 22 }: { size?: number }) => (
